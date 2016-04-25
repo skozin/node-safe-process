@@ -1,0 +1,29 @@
+{
+  "name": "safe-process",
+  "description": "Helper for initializing and deinitializing an app",
+  "version": "1.0.1",
+  "dependencies": {
+    "co": "^4.6.0",
+    "stupid-log": "^1.0.1"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "init",
+    "initialization",
+    "deinit",
+    "deinitialization",
+    "teardown",
+    "signal",
+    "trap",
+    "sigint",
+    "sigterm"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skozin/safe-process/issues"
+  },
+  "homepage": "https://github.com/skozin/safe-process"
+}
